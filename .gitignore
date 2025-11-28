@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.vscode/
+__pycache__/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+*.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+uploads/
+Test Pdf Metallurgy.pdf
